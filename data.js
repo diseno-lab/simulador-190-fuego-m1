@@ -48,7 +48,7 @@ window.SCENES=[
  voice:'¡Has perdido el control del sector! Ignorar la pavesa a la espera de ver humo (Opción B) o replegar a toda la brigada en pánico abandonando la faja (Opción C) son errores graves. Los focos secundarios por pavesas son la principal causa de atrapamiento por corte de rutas. Reevalúa y despacha la patrulla.',
  voice2:'El tiempo ha dictado sentencia. La alternativa correcta era la Opción A: despachar inmediatamente una patrulla para liquidar la pavesa sin desatender la línea principal. Evaluación final registrada.',
  cta:'REVERTIR ORDEN Y DESPACHAR',cta2:'FINALIZAR SIMULACIÓN ›',to2:14,tone:'red'},
-{id:14,type:'end',case:0,title:'Desbriefing de la Simulación',seal:true,
+{id:14,type:'end',case:0,title:'Reporte de Cumplimiento',seal:true,
  voice:'Simulador de Mando concluido. Te has enfrentado a la realidad del combate: la topografía, el viento y la imprevisibilidad del fuego. Recuerda que un Líder no solo apaga llamas; analiza, anticipa y toma decisiones basadas en el comportamiento físico del incendio para garantizar la vida de sus combatientes. Buen retorno a la base, Líder.',
  checklist:['Precisión de lectura anatómica (Cabeza en Noreste).','Identificación de trampas topográficas (Efecto Chimenea en Cárcava).','Reacción táctica ante Pavesas (Despacho de Patrulla - Opción A).'],
  cta:'RETORNAR Y GENERAR CERTIFICADO'}
